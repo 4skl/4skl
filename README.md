@@ -12,4 +12,6 @@ I'm heading towards cybersecurity, so I'll start soon to do a CTF a day from Hac
 You can reach me using my email or others ways, I'll be happy to answer any questions.
 </p>
 
-<a href="https://dontasktoask.com/" target="_blank" >Never stop learning \~</a>
+<a href="https://dontasktoask.com/" target="_blank" align="left" >Never stop learning \~</a>  
+
+- <img src="https://4skl.com/static/favicon.3320e679a3ed.svg" alt="Never stop learning !" width="30" height="30" />
