@@ -9,7 +9,7 @@ I’m currently working on my personal website, GestP a stock/accounting tool, s
 
 I'm heading towards cybersecurity, so I'll start soon to do a CTF a day from HackTheBox, I'll be publishing reports on my website when I'll have finished the new version (Docker, Nginx, Django, VueJS).  
 
-\~You can reach me using my email or others ways, I'll be happy to answer any questions.\~  
+You can reach me using my email or others ways, I'll be happy to answer any questions.
 </p>
 
-<a href="https://dontasktoask.com/" target="_blank" >Never stop learning\~</a>
+<a href="https://dontasktoask.com/" target="_blank" >Never stop learning \~</a>
