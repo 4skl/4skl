@@ -5,7 +5,7 @@
 <p align="left">
 I'm a french it entousiast, here are some of the hundreds of projects that I've in mind.  
 
-I’m currently working on my personal website, GestP a stock/accounting tool, some websites,..  
+I’m currently working on my personal website, GestP a stock/accounting tool, some websites,.. and learning CI/CD while building a new version of my blog 4skl.com. 
 
 I'm heading towards cybersecurity, so I'll start soon to do a CTF a day from HackTheBox, I'll be publishing reports on my website when I'll have finished the new version (Docker, Nginx, Django, VueJS).  
 
