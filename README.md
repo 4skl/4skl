@@ -12,8 +12,8 @@ I'm heading towards cybersecurity, so I'll start soon to do a CTF a day from Hac
 You can reach me using my email or others ways, I'll be happy to answer any questions.
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/96a554aa-d3ab-405d-a028-6b42d7f02cf9.svg)](https://wakatime.com/@96a554aa-d3ab-405d-a028-6b42d7f02cf9)
-
 [Never stop learning \~](https://dontasktoask.com/) 
+
+[![wakatime](https://wakatime.com/badge/user/96a554aa-d3ab-405d-a028-6b42d7f02cf9.svg)](https://wakatime.com/@96a554aa-d3ab-405d-a028-6b42d7f02cf9)
 
 - <img src="https://4skl.com/static/favicon.3320e679a3ed.svg" alt="4skl.com logo" width="30" height="30" />
