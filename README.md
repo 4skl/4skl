@@ -16,4 +16,4 @@ You can reach me using my email or others ways, I'll be happy to answer any ques
 
 [![wakatime](https://wakatime.com/badge/user/96a554aa-d3ab-405d-a028-6b42d7f02cf9.svg?style=flat)](https://wakatime.com/@96a554aa-d3ab-405d-a028-6b42d7f02cf9)
 
-- <img src="https://4skl.com/static/favicon.3320e679a3ed.svg" alt="4skl.com logo" width="30" height="30" />
+- <img src="https://github.com/4skl/4skl/blob/56174e3702afc147225b8b6331bb3678f8cd12b3/favicon.svg" alt="4skl.com logo" width="50" height="50" />
