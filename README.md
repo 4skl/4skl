@@ -7,9 +7,9 @@ I'm a french IT/CS entousiast, here are some of the hundreds of projects that I'
 
 I’m currently working on my personal website, GestP a stock/accounting tool, some websites,.. and learning CI/CD while building a new version of my blog : [blog.4skl.com](https://blog.4skl.com). 
 
-I'm heading towards cybersecurity, so I'll start soon to do a CTF a day from HackTheBox, I'll be publishing reports on my website when I'll have finished the new version (Docker, Nginx, Django, VueJS).  
+I also do some freelancing work as needed (Web, Native, Embeded,..), you can contact me by mail @4skl.com or [on bluesky ](https://bsky.app/profile/4skl.com).
 
-You can reach me using my email or others ways, I'll be happy to answer any questions.
+I'll be happy to answer any questions.
 </p>
 
 [Never stop learning \~](https://dontasktoask.com/) 
