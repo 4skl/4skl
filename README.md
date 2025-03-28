@@ -7,7 +7,9 @@ I'm a french IT/CS entousiast, here are some of the hundreds of projects that I'
 
 I’m currently working on my personal website, GestP a stock/accounting tool, some websites,.. and learning CI/CD while building a new version of my blog : [blog.4skl.com](https://blog.4skl.com). 
 
-I also do some freelancing work as needed (Web, Native, Embeded,..), you can contact me by mail @4skl.com or [on bluesky ](https://bsky.app/profile/4skl.com).
+I also do some freelancing work as needed (Web, Native, Embeded,..), you can contact me by mail [contact@4skl.com](mailto:contact@4skl.com) or [on bluesky](https://bsky.app/profile/4skl.com).
+
+My main stack for efficiency is [Vue.js](https://vuejs.org/), [Django (python)](https://www.djangoproject.com/), [PostgreSQL](https://www.postgresql.org/)/[SQLite](https://www.sqlite.org/), [nginx](https://www.nginx.com/); but I can adapt to a lot of different stacks as needed.
 
 I'll be happy to answer any questions.
 </p>
