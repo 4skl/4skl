@@ -19,3 +19,5 @@ I'll be happy to answer any questions.
 [![wakatime](https://wakatime.com/badge/user/96a554aa-d3ab-405d-a028-6b42d7f02cf9.svg?style=flat)](https://wakatime.com/@4skl)
 
 - <img src="https://github.com/4skl/4skl/blob/56174e3702afc147225b8b6331bb3678f8cd12b3/favicon.svg" alt="4skl.com logo" width="50" height="50" />
+
+[Donate here to help me build my projects](https://www.paypal.com/donate/?hosted_button_id=E4TSCRQRZH8Q8)
